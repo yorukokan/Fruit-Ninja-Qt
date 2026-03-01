@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Resimler">
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/back.jpg</file>
+    </qresource>
+    <qresource prefix="/Konum-Skor">
+        <file>konumlar.txt</file>
+        <file>skorlar.txt</file>
+    </qresource>
+</RCC>
