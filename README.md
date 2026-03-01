@@ -1,26 +1,27 @@
 # 🍉 SliceQt: Fruit Ninja Clone
 
-Qt Framework ve C++ kullanılarak geliştirilmiş, akıcı mekaniklere sahip bir meyve kesme oyunu. Bu proje, GUI programlama ve temel oyun mantığı (collision detection) pratikleri içerir.
+A **high-performance** fruit-slicing game with **fluid mechanics**, developed using **C++** and the **Qt Framework**. This project demonstrates advanced **GUI programming** and core **game engine logic**.
 
 ---
 
-## 📺 Oyunun Tanıtım Videosu
-Projenin nasıl çalıştığını aşağıdan izleyebilirsiniz:
+## 📺 Gameplay Demonstration
+Experience the action-packed slicing mechanics:
 
-[▶️ Oyun Oynanış Videosunu İzlemek İçin Tıklayın](FruitNinja.mp4)
+[▶️ **Click to Watch Gameplay Video**](FruitNinja.mp4)
 
-> **Not:** Eğer videoyu tarayıcıda görmek isterseniz, repodaki `FruitNinja.mp4` dosyasına tıklamanız yeterlidir.
+> **Note:** To view the video directly in your browser, simply click on the `FruitNinja.mp4` file within the repository.
 
 ---
 
-## ✨ Özellikler
-* **Hızlı Kesme Mekaniği:** Fare hareketlerini takip eden kesme algoritması.
-* **Skor Tablosu:** Kesilen her meyve için puan artışı ve kaçan meyveler için can sistemi.
-* **Görsel Efektler:** Parçalanan meyve görselleri ve akıcı animasyonlar.
-* **Cross-Platform:** Qt sayesinde hem Windows hem de Linux üzerinde çalıştırılabilir.
+## ✨ Key Features
+* **High-Speed Slicing Algorithm:** Real-time **mouse tracking** and precision **collision detection**.
+* **Dynamic Scoring System:** Points awarded for every slice with a **lives/health** management system.
+* **Polished Visuals:** Smooth animations and custom **fruit-splitting sprites**.
+* **Cross-Platform Support:** Fully compatible with **Windows** and **Linux** environments.
 
-## 🛠️ Teknik Detaylar
-* **Dil:** C++
-* **Framework:** Qt (Widgets/QML)
-* **Kütüphaneler:** Qt Multimedia (Ses ve efektler için)
+## 🛠️ Technical Stack
+* **Language:** **C++** (Object-Oriented Design)
+* **Framework:** **Qt** (Widgets & QML)
+* **Multimedia:** **Qt Multimedia** for synchronized sound effects and audio cues.
 
+---
