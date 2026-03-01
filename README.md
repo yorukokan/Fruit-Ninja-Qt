@@ -1,4 +1,4 @@
-# 🍎 SliceQt: Fruit Ninja Clone
+# 🍉 SliceQt: Fruit Ninja Clone
 
 Qt Framework ve C++ kullanılarak geliştirilmiş, akıcı mekaniklere sahip bir meyve kesme oyunu. Bu proje, GUI programlama ve temel oyun mantığı (collision detection) pratikleri içerir.
 
