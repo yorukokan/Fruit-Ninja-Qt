@@ -9,7 +9,7 @@ Projenin nasıl çalıştığını aşağıdan izleyebilirsiniz:
 
 [▶️ Oyun Oynanış Videosunu İzlemek İçin Tıklayın](FruitNinja.mp4)
 
-> **Not:** Eğer videoyu tarayıcıda görmek isterseniz, repodaki `video_dosyasinin_adi.mp4` dosyasına tıklamanız yeterlidir.
+> **Not:** Eğer videoyu tarayıcıda görmek isterseniz, repodaki `FruitNinja.mp4` dosyasına tıklamanız yeterlidir.
 
 ---
 
